@@ -3,7 +3,7 @@
   "name": "picOCR",
   "icons": [
     {
-      "src":"./images/icon/Phantom FGR.1.png",
+      "src":"./images/icon/logo.png",
       "sizes":"512x512",
       "type":"image/png"
     }
